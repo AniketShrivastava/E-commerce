@@ -1,0 +1,15 @@
+Get all prodcuts : 
+https://fakestoreapi.com/products
+
+
+Get a single product 
+https://fakestoreapi.com/products/pid
+
+
+Get all categories 
+https://fakestoreapi.com/products/categories
+
+
+Get all product with a specific category 
+https://fakestoreapi.com/products/category/categoryname
+
